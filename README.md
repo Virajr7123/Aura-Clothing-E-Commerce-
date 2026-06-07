@@ -33,8 +33,7 @@ AURA is a digital editorial concept storefront defined by structural minimalist 
 Follow these steps to pull down the project and boot your local server setup:
 
 1. Clone the repository
-git clone https://github.com/virajr7123/aura-e-commerece-test.git
-cd aura-e-commerece-test
+git clone https://github.com/Virajr7123/Aura-Clothing-E-Commerce-.git
 
 2. Install dependencies
 npm install
